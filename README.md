@@ -142,8 +142,7 @@ Social platform for developers: profiles, skill tagging, connections, and real-t
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sagar-A-M&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://streak-stats.demolab.com/?user=Sagar-A-M&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
 
 <br/>
 
