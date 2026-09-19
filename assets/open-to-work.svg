@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="40" viewBox="0 0 390 40" role="img" aria-label="Open to work - Full Stack / Backend roles">
+  <style>
+    .pulse { transform-origin: 24px 20px; animation: pulse 1.8s ease-out infinite; }
+    @keyframes pulse {
+      0%   { transform: scale(1);   opacity: 0.7; }
+      100% { transform: scale(2.6); opacity: 0;   }
+    }
+  </style>
+  <rect x="1" y="1" width="388" height="38" rx="19" fill="#0d1117" stroke="#30363d" />
+  <circle class="pulse" cx="24" cy="20" r="6" fill="#3fb950" />
+  <circle cx="24" cy="20" r="6" fill="#3fb950" />
+  <text x="46" y="25" fill="#e6edf3" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">Open to work · Full Stack / Backend roles</text>
+</svg>
