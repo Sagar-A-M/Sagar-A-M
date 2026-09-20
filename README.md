@@ -9,7 +9,7 @@
 <br/>
 
 
-<a href="https://www.linkedin.com/in/gnana-sagar-a-m-420a24260/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/sagar-am/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:amsagar.pr@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/Sagar-A-M/Sagar-A-M/raw/main/Gnana_Sagar_A_M_Resume.pdf"><img src="https://img.shields.io/badge/Resume-7C6CFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
 
